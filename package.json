@@ -1,0 +1,17 @@
+{
+  "name": "escompose",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@elastic/elasticsearch": "^7.16.0",
+    "elasticsearch": "^16.7.3",
+    "get-json": "^1.0.1"
+  }
+}
